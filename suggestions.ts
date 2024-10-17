@@ -1,5 +1,3 @@
-// suggestions.ts
-
 const words = [
   "night-rider",
   "cyber-punk",
